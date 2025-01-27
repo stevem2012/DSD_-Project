@@ -13,4 +13,4 @@ Also you can use Modelsim tools to simulate your modules.
 After running above commands you can see performance of the cicruit by the prepared vcd file and the printed results.
 You can refer to doc folder to see explanation of the project in ["Final Exam.pdf"](https://github.com/amirprogrammer04/DSD/blob/master/Doc/Final%20Exam.pdf) File and refer to code folder to see Code of the project in ["Parking.v"](https://github.com/amirprogrammer04/DSD/blob/master/Code/Parking.v). Also i prepared the output of the simulation in ["output.txt"](https://github.com/amirprogrammer04/DSD/blob/master/Doc/output.txt) and also the [vcd file](https://github.com/amirprogrammer04/DSD/blob/master/Doc/Parking.vcd) and the uploded in the doc file ["Final Exam.pdf"](https://github.com/amirprogrammer04/DSD/blob/master/Doc/Final%20Exam.pdf) .
 ## Authers
-[Amirhossein Mohammadpour](https://github.com/amirprogrammer04)
+[Amirhossein Mohammadpour](https://github.com/stevem2012)
